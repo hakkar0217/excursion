@@ -1,9 +1,36 @@
 body {
     background-color: black;
     text-align: center;
+    align-items: center;
+    color: white;
 }
 
 h1 {
     font-family: verdana;
     
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p.bottom {
+    text-align: right;
+    color: gray;
+}
+
+h1.head {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h1.page {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p.mid {
+    font-size: 21px;
+    color: gray;
 }
